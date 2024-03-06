@@ -1,0 +1,6 @@
+a) os proximos números serão -> 9 11 13... pois são número ímpares.
+b) os proximos números serão -> 128 256 512 1024... pois todos são multiplos de 2.
+c) os proximos números serão -> 49 64 81 100... pois todos são o quadrado de uma sequência de números (0 1 2 3 4 5...)
+d) os proximos números serão -> 100 144 196... pois eles estão sendo multiplcados por um sequência de quadrados perfeitos (2x2 4x4 6x6 8x8...)
+e) os proximos números serão -> 13 21 34... estão seguindo a sequência Fibonacci.
+f) os proximos números serão -> não consegui identificar.
