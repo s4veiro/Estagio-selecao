@@ -1,3 +1,3 @@
-Resolução: Eu ligaria o primeiro interruptor e e esperaria alguns minutos e depois o desligaria. Depois eu ligaria o segundo interruptor e iria em uma das salas.
+Resolução: Eu ligaria o primeiro interruptor e esperaria alguns minutos e depois o desligaria. Depois eu ligaria o segundo interruptor e iria em uma das salas.
 se a lâmpada estivesse quente, então aquela lâmpada está ligada ao primeiro interruptor. Se estiver ligada, pertence ao segundo interruptor. Se estiver fria,
 pertence ao terceiro interruptor.
